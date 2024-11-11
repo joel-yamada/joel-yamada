@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @joel-yamada
 - 👀 I’m interested in learning, staying active, and having fun!
-- 🌱 I’m currently learning SQL, R, some data visualization toold
+- 🌱 I’m currently learning SQL, R, some data visualization tools
 - 📫 How to reach me joel.yamada@berkeley.edu
 - 😄 Pronouns: He/Him/His
